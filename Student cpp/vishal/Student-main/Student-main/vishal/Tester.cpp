@@ -16,6 +16,6 @@ int main()
 	s1.totalMarks();
 	s1.percent();
 
-	cout<<yo yo mauli<<endl;
+
 	
 }
